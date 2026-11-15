@@ -45,3 +45,7 @@ Reference study only, not for navigation.
 If you use the maps or the datasets, please cite this repo. The "Cite this repository" button on GitHub reads [CITATION.cff](CITATION.cff), or use:
 
 > Alghazali, M. (2026). *OEJN departure mapping: ground atlas, departure explorer and published-procedure datasets* [Software and data]. GitHub. https://github.com/M-AlGhazali/Research-and-Innovation-department-SANS-project
+
+## Licence
+
+Code is [MIT](LICENSE). My CSV datasets are CC BY 4.0. OpenStreetMap-derived data stays ODbL, and the SANS AIP material in `sources/` isn't covered. Details are in [DATA_LICENSE.md](DATA_LICENSE.md).
