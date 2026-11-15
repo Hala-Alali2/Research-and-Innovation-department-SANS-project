@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these maps or datasets, please cite them as below."
+type: software
+title: "OEJN departure mapping: ground atlas, departure explorer and published-procedure datasets"
+abstract: >-
+  Maps and reference datasets for departures at King Abdulaziz International
+  Airport (OEJN), Jeddah: a QGIS ground atlas, browser maps including a 3D
+  departure explorer, and the 16 published departure procedures from runways
+  34C and 34L, with source provenance for every value.
+authors:
+  - family-names: Alghazali
+    given-names: Muhannad
+repository-code: "https://github.com/M-AlGhazali/Research-and-Innovation-department-SANS-project"
+url: "https://m-alghazali.github.io/Research-and-Innovation-department-SANS-project/map-2/"
+keywords:
+  - aviation
+  - geospatial
+  - qgis
+  - departure procedures
+  - noise
+  - emissions
+  - OEJN
+  - Saudi Arabia
+date-released: "2026-10-28"
